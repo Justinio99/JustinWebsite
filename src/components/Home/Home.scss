@@ -1,0 +1,35 @@
+@import '~@/assets/scss/card.scss';
+@import '~@/assets/scss/titel.scss';
+.container {
+  opacity: 1;
+  position: absolute;
+  top: 23%;
+}
+
+.overall-container {
+  width: 100%;
+  opacity: 1;
+  .inside-container {
+    display: flex;
+    opacity: 1;
+    margin: 0 auto;
+    justify-content: center;
+    width: 60%;
+    flex-wrap: wrap;
+  }
+}
+
+@media screen and (max-width: 2000px) {
+  .inside-container {
+    width: 75% !important;
+  }
+}
+
+@media screen and (max-width: 1550px) {
+  .inside-container {
+    width: 90% !important;
+  }
+  .überschrift {
+    width: 100%;
+  }
+}

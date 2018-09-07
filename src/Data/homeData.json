@@ -1,0 +1,18 @@
+[{
+  "aboutMe": {
+    "title": "ABOUT ME",
+    "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
+  },
+  "projects": {
+    "title": "PROJECTS",
+    "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
+  },
+  "hobby": {
+    "title": "HOBBY",
+    "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
+  },
+  "silly": {
+    "title": "ABOUT ME",
+    "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
+  }
+}]
